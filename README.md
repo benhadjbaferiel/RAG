@@ -1,4 +1,4 @@
-# 🤖 AI Assistant — RAG Chatbot (NLP / ML / DL)
+#  AI Assistant — RAG Chatbot (NLP / ML / DL)
 
 Un chatbot intelligent basé sur **RAG (Retrieval-Augmented Generation)** qui répond à des questions sur l'Intelligence Artificielle, le Machine Learning, le Deep Learning et le NLP, en s'appuyant sur une base documentaire vectorisée.
 
@@ -7,7 +7,7 @@ Un chatbot intelligent basé sur **RAG (Retrieval-Augmented Generation)** qui r�
 -  **Recherche sémantique** avec FAISS + Sentence-Transformers
 -  **Génération de réponses** avec Gemini (Google GenAI)
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 PDF Books → tojsn.py → jsons/ → fusion.py → master_dataset.json
