@@ -1,0 +1,27 @@
+# PDFs (heavy books)
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Individual JSON outputs (intermediate data)
+jsons/
+master_dataset.json
+
+# Pre-built model files (download from Releases)
+vector_index.faiss
+master_dataset_cleaned.json
+
+# Dataset build scripts (User wants to keep these local)
+fusion.py
+nettoyage.py
+tojsn.py
+vecto.py
+
+# Environment / secrets
+.env
+*.env
+
+# Misc
+try.txt
